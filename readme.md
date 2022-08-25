@@ -9,8 +9,7 @@
 * setting svg image as background using absolute positioning in top, right corner.
 
 
-![thumbnail](thumb1.png)
-![thumbnail](thumb2.png)
+![thumbnail](thumb.png)
 
 
 
